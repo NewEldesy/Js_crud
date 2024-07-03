@@ -11,7 +11,8 @@ Ce projet permet de gérer un formulaire d'ajout de produits avec des fonctionna
 
 ## Structure du projet
 
-- `index.html` : Contient le code HTML du formulaire et de la table et le code JavaScript pour gérer les fonctionnalités d'ajout, de modification et de suppression des produits.
+- `index.html` : Contient le code HTML du formulaire et de la table.
+- `main.js` : Contient le code JavaScript pour gérer les fonctionnalités d'ajout, de modification et de suppression des produits.
 
 ## Utilisation
 
